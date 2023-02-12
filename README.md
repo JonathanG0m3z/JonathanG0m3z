@@ -5,5 +5,5 @@
 
 
 
-- 🔭 I’m currently working at Teaching assintant in Henry
+- 🔭 I’m currently working at Teaching assintant in Henry bootcamp
 
