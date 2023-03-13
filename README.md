@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jonathan Gómez</h1>
 <h3 align="center">A passionate full stack web developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Grooming-Argentina](https://github.com/Zetah07/Grooming-Argentina)
+<!-- - 🔭 I’m currently working on [Grooming-Argentina](https://github.com/Zetah07/Grooming-Argentina) -->
+<h3 align="left">Who am I?</h3>
+-Full stack developer with more than 1 year working as a web developer specialized in JavaScript and its most popular frameworks. With knowledge in React, Redux, express, node, bootstrap and more. My experience in backend and frontend development allowed me to understand perfectly the comunication in the both sides and also develop skills like solve problems, comunication and teamwork.
 
 - 👨‍💻 All of my projects are available at [https://jonathang-portfolio.netlify.app](https://jonathang-portfolio.netlify.app)
 
