@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/jonathangomez-sanchez-">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://jonathang-portfolio.netlify.app">
+  <a href="https://zynapse-lab.vercel.app/jonathan">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:jg350u@gmail.com">
